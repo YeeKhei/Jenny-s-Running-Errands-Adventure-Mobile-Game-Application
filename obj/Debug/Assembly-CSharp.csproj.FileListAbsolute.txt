@@ -1,0 +1,2 @@
+C:\PSM\TRY 2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\PSM\TRY 2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

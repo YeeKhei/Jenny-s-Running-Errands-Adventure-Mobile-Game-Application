@@ -1,0 +1,39 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Jake: Grandma will take care of the dishes, let's play!\n
+		Jenny: But grandma seems busy and leave the dishes on the table after eating is not a good habit.\n
+		Jake: But then, cleaning dishes is not fun at all, let's just play instead.\n
+		Jenny: Should I help Grandma?\n
+		[[We should not do this. We have the responsibility to help grandma.|HelpGrandma2]]\n
+		[[Sure. I hate do house chores! Let's play and let grandma do the rest.|NothelpGrandma2]]\n",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "HelpGrandma2",
+		"tags": "",
+		"body": "Jenny: This is our responsibility, Jake and grandma is happy with our help too!\n
+		Jake: You are right after all. It is good to see grandma happy with our good deed.",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NothelpGrandma2",
+		"tags": "",
+		"body": "Jenny and Jake were scolded by grandma for not helping after lunch.",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	
+]

@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Ali: There is a puppy fell into river!\nAli: What should I do?\n[[Save it by a branch.|BranchSave]]\n[[Jump into the river|JumpRiver]]\n[[Walk away|NoSave]]",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "BranchSave",
+		"tags": "",
+		"body": "Ali: I can save it by this branch.\nAli: Still a little bit.\nThe puppy has been rescue.It seen like very grateful toward Ali.",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "JumpRiver",
+		"tags": "",
+		"body": "Ali jump into the river.\nAli drown in the river.\nAli: Help! Help!\nA man walk beside the river and notice Ali.\nThe man jump into the river\nPeople: You should not jump into the river.\nAli: Sorry...",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NoSave",
+		"tags": "",
+		"body": "Ali: It is too dangerous for me to rescue the puppy.\nAli: Someone will save it.\nThe dog flew away.\nAli: I should rescue it...",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+]

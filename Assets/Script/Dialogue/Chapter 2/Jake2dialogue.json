@@ -1,0 +1,38 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Jake: Yay! I got a train!\n
+		Jenny: Oh no! The house is messy now!\n 
+		Jenny: Should I help to clean it up?\n
+		Jenny: Should both of us stop playing and clean up the room now?\n
+		[[I must clean up before anyone accidentally get hurt.|HelpGrandma3]]\n
+		[[No, I guess I can clean up later.|NothelpGrandma3]]\n",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "HelpGrandma3",
+		"tags": "",
+		"body": "Jenny: We are respondsible to clean up our toys after playing.\n",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NothelpGrandma3",
+		"tags": "",
+		"body": "The house was too messy! Grandma accidentally slipped!",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	
+]

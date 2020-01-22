@@ -1,0 +1,40 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Jake: Hey Jenny! What a coincidence! Let's play!\n
+		Jenny: It Jake, my cousin.\n
+		Jake: Looking at your lunch box, you must be on your way to your grandma's house.\n
+		Jake: Let's play for a while now, you can always go there later.\n
+		Jenny: Should I play with Jake? But I need to send food to grandma on time.\n
+		[[Hey Jake! Sorry, I need to send food to grandma. Let's play later.|DontPlayWithJake]]\n[[Hey, Jake! Long time no see. Sure, let's play!|PlayWithJake]]\n",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	}, 
+	{
+		"title": "DontPlayWithJake",
+		"tags": "",
+		"body": "Jenny: My mom told me to send the lunch as soon as possible, so this is my responsible to reach grandma's house on time. \n
+		Jenny: Let's have a lunch there and play later!",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "PlayWithJake",
+		"tags": "",
+		"body": "Jenny: Oh no! My Grandma is still waiting for my food!",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+
+	
+]

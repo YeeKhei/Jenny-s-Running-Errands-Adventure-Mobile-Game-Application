@@ -1,0 +1,36 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Jenny: Jake is watching TV shows at living room while grandma is not convenience in preparing food.\n
+		Jenny: Should I help grandma to prepare food?\n
+		[[I should help Grandma to prepare lunch since she has walking difficulties.|HelpGrandma]]\n
+		[[I want to watch my favourite show on TV with Jake.|NothelpGrandma]]\n",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "HelpGrandma",
+		"tags": "",
+		"body": "Grandma is happy and we are ready to have a nice and delicious lunch.",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NothelpGrandma",
+		"tags": "",
+		"body": "Jenny: Oh no! Grandma had difficulties serving the food and spilled it!",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	
+]

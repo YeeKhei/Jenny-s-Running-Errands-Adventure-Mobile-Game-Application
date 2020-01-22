@@ -1,0 +1,41 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Stranger: Hey kids! I have a lot of free sweets at home. Do you want to follow me?\n
+		Jake: I love sweets! You are so nice! \n
+		Jake: Jenny, we will have a lot of sweets today, let's just follow him.\n
+		Jenny: But I feel something is not right and we are not supposed to follow strangers.\n
+		Stranger: Not just sweets, I also have many cute pets at my home, do you want to see them?\n
+		Jenny: Sounds interesting, but can we really go with him?\n
+		[[No thanks.I should not accept anything from stranger.|NoKidnapper]]\n
+		[[Yes,thank you. If you have more, please give me!|Kidnapper]]\n",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NoKidnapper",
+		"tags": "",
+		"body": "Jenny: Ah! Help! There is a stranger that trying to kidnap us!\n
+		Stranger: This is not good! I better run now!",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Kidnapper",
+		"tags": "",
+		"body": "Oh no! The sweet got poison! The stranger is a kidnapper!",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	
+]

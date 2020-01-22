@@ -1,0 +1,38 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Jake: Let's take a shortcut. We can reach home faster!\n
+		Jenny: But it is too dark and I have a bad feeling if we take this shortcut.\n
+		Jake: No worry! I think we will be safe if we go together, should we?\n
+		[[No, the shortcut looks dangerous. Let's take the safer route.|NoShortcut]]\n
+		[[Sure, if we can reach home faster, let's take this route.|Shortcut]]\n",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NoShortcut",
+		"tags": "",
+		"body": "Jenny: It's better to take a long way to go home because it is much safer.\n
+		Jake: Ok, I guess you are right. Let's follow the safer road.",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Shortcut",
+		"tags": "",
+		"body": "Getting hurt by barbed vine because the way is too dark and easily get hurt.",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	
+]

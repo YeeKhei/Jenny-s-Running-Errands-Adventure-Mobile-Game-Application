@@ -1,0 +1,36 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Jenny: Hey, a cute cat!\n
+		Jenny: Can I play with the cat for while?\n
+		[[Grandma must be hungry now. I must hurry. Bye Kitty!|DontPlayWithCat]]\n
+		[[So cute! I think it is okay if I play with the cat for a while.|PlayWithCat]]\n",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DontPlayWithCat",
+		"tags": "",
+		"body": "Jenny:I am sorry kitty! Grandma is hungry, I must go now.",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "PlayWithCat",
+		"tags": "",
+		"body": "Oh no! The food is ruined by the kitty!",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	
+]

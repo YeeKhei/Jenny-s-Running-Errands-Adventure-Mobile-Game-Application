@@ -1,0 +1,40 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Clock strike 5.\n
+		Jenny: It's 5 o'clock. I think it's time for me to go back.\n
+		Jake: Hey Jenny! It's still early! You can stay here longer!\n
+		Jenny: I guess Jake was right too, but I had promised my mom will reach home before 6 evening, what should I do?\n
+		[[No, I pomised my mom I will be home before 6 o'clock.|GoBack]]\n
+		[[I think is okay if I stay a bit late.|NotGoBack]]\n",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "GoBack",
+		"tags": "",
+		"body": "Jenny: My mom felt glad when grandma told her I go back how now on the phone.\n
+		Jenny: I think you should go back too before dark.\n
+		Jake: Then, let me accompany you. My home is near with you, let's go back together.",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NotGoBack",
+		"tags": "",
+		"body": "Scold by mom for not coming home on time because going home at night is dangerous.",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	
+]

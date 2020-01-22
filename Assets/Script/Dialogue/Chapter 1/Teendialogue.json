@@ -1,0 +1,38 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Teenager: Hey there! The zebra crossing is too far from here! Let's just cross the road together! Okay?\n
+		Jenny: But my mom advised me to use zebra-crossing to cross the road.\n
+		Teenager: I will help you to cross the road without zebra crossing.\n
+		Jenny: Should I follow what she said or use zebra crossing instead?\n
+		[[No, it's too dangerous.Let's use the zebra crossing.|ZebraCrossing]]\n[[There is less cars on the road, so let's cross.|CrossTheRoad]]\n",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "ZebraCrossing",
+		"tags": "",
+		"body": "Jenny: Yay, I will cross the road safely using zebra crossing.\n Jenny: I should continue my way to grandma house.",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "CrossTheRoad",
+		"tags": "",
+		"body": "Jenny: Too dangerous! The car nearly hit me!",
+		"position": {
+			"x": 672,
+			"y": 285
+		},
+		"colorID": 0
+	},
+
+	
+]
